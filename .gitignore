@@ -1,0 +1,9 @@
+# Ignore all .env files in the repo
+.env
+**/.env
+**/node_modules/
+__pycache__/
+**/__pycache__/
+*.pyc
+**/.pnp[.js]
+.venv/

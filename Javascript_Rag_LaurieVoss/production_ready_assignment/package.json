@@ -1,0 +1,16 @@
+{
+  "name": "production_ready_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prod_ready.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "llamaindex": "^0.8.30"
+  }
+}
